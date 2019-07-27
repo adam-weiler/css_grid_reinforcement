@@ -267,7 +267,6 @@ a {
   /* Hint: Don't think about shrinking the last two elements into the single column,
   but instead think about stretching the first two across the template. */
   .main-block {
-    background-color: blue;
     margin: 0 auto;
     max-width: 1200px;
     display: grid;
